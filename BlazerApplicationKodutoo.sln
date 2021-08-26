@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerKodutoo", "BlazorServerKodutoo\BlazorServerKodutoo.csproj", "{48583FA4-68CB-4C9C-A8B7-3595E1BE2C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazerWebAssemblyKodutoo", "BlazerWebAssemblyKodutoo\BlazerWebAssemblyKodutoo.csproj", "{90F05EB1-AA36-43DF-A89B-1A4118D6AB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48583FA4-68CB-4C9C-A8B7-3595E1BE2C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48583FA4-68CB-4C9C-A8B7-3595E1BE2C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48583FA4-68CB-4C9C-A8B7-3595E1BE2C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48583FA4-68CB-4C9C-A8B7-3595E1BE2C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F05EB1-AA36-43DF-A89B-1A4118D6AB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F05EB1-AA36-43DF-A89B-1A4118D6AB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F05EB1-AA36-43DF-A89B-1A4118D6AB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F05EB1-AA36-43DF-A89B-1A4118D6AB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91332F2E-3AC4-42B1-B408-A597E85FA6E5}
+	EndGlobalSection
+EndGlobal
